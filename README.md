@@ -1,6 +1,8 @@
+<hr>
 
-<hr></hr>
 <p align="center">
-  <img src="https://github.com/BrunoMorales23/BrunoMorales23/blob/main/assets/python-beloved.gif" href="https://github.com/BrunoMorales23" width="60%"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMorales23&layout=pie" width="35%" />
+  <img src="https://github.com/BrunoMorales23/BrunoMorales23/blob/main/assets/python-beloved.gif" width="60%" />
 </p>
-<hr></hr>
+
+<hr>
